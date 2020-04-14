@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6085de25-ad3f-4763-8fc9-ca61e1f4db38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mfscrm" />
+  </component>
+  <component name="ProjectId" id="1YDSy0QlXcEOywLgWnX7S4Jm09s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment1_Blog_PA" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6085de25-ad3f-4763-8fc9-ca61e1f4db38" name="Default Changelist" comment="" />
+      <created>1582475922599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582475922599</updated>
+      <workItem from="1582475924245" duration="9870000" />
+      <workItem from="1582489206723" duration="2258000" />
+      <workItem from="1582581060865" duration="36000" />
+      <workItem from="1582766422957" duration="1686000" />
+      <workItem from="1582837644987" duration="734000" />
+      <workItem from="1583075520898" duration="29000" />
+      <workItem from="1583077085541" duration="2116000" />
+      <workItem from="1583089715320" duration="404000" />
+      <workItem from="1583090365762" duration="479000" />
+      <workItem from="1583185711846" duration="6000" />
+      <workItem from="1583187323001" duration="982000" />
+      <workItem from="1583192522530" duration="4000" />
+      <workItem from="1583192533815" duration="4000" />
+      <workItem from="1586800621275" duration="2151000" />
+      <workItem from="1586806025246" duration="621000" />
+      <workItem from="1586809678073" duration="1210000" />
+      <workItem from="1586812248850" duration="69000" />
+      <workItem from="1586893328809" duration="1320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1586802295096">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1060" y="461" key="FileChooserDialogImpl/0.0.2560.1410/-2560.0.2560.1050@0.0.2560.1410" timestamp="1586802295096" />
+  </component>
+</project>
